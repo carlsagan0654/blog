@@ -19,6 +19,3 @@ with plt.xkcd():
 
 ![png](/images/hellotest.png)
     
-```python
-
-```
