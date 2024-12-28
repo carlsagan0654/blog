@@ -159,7 +159,7 @@ class OllamaChat:
 ```
 
 ```python
-ollama_chat = OllamaChat(model_name='llama3:8b')
+ollama_chat = OllamaChat()
 ollama_chat.create_system_prompt("""You are a highly skilled text analysis expert, acting as a meticulous and unbiased detective. 
 Your objective is to analyze written text or correspondence to extract only explicitly stated sensitive and confidential information, such as:
 1) IP addresses
